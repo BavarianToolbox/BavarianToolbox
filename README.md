@@ -3,7 +3,7 @@ Stats                      |  Streaks
 ![](https://github-readme-stats.vercel.app/api?username=bavariantoolbox&show_icons=true&count_private=true&theme=tokyonight)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=bavariantoolbox&show_icons=true&count_private=true&theme=tokyonight)
 
 <h1 align="center">Hi 👋, I'm Constantin Baumgartner</h1>
-<h3 align="center">I like solving problems with machine learning</h3>
+<h3 align="center">I like solving problems by building Machine Learning products.</h3>
 
 
 <div align="center">
